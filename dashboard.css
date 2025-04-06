@@ -151,17 +151,18 @@ header {
 
 .id-card-bottom {
     position: absolute;
-    width: 300px;
+    width: 100%; /* Dostosowanie szerokości do 100% */
+    max-width: 330px; /* Maksymalna szerokość na szerokość karty */
     height: 56px;
-    left: 0px;
-    bottom: 27px; /* wysokosc przyciskow */
+    left: 0;
+    bottom: 27px; /* wysokość przycisków */
     padding: 10px;
     border-radius: 0 0 16px 16px;
     background-color: #ffffff;
     box-sizing: border-box;
     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.04);
     display: flex;
-    justify-content: space-between;
+    justify-content: center; /* Wyśrodkowanie przycisków */
     align-items: center;
     font-size: 18px;
     font-weight: 600;
