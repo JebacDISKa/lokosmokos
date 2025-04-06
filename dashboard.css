@@ -117,6 +117,7 @@ header {
     box-sizing: border-box;
     margin-left: 20px;
     overflow-x: auto;
+    overflow-y: visible;
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
