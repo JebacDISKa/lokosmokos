@@ -137,6 +137,7 @@ header {
     width: 320px;
     height: 200px;
     border-radius: 16px;
+    top: -40px; 
 }
 
 .id-card-top {
