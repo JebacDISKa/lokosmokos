@@ -137,7 +137,7 @@ header {
 .id-card {
     position: relative;
     width: 320px;
-    height: 180px; /* zwiększamy, żeby było miejsce na dolny pasek */
+    height: 240px; /* zwiększamy, żeby było miejsce na dolny pasek */
     border-radius: 16px;
     margin-right: 20px;
 }
