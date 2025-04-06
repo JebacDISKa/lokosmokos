@@ -136,14 +136,14 @@ header {
 
 .id-card {
     position: relative;
-    width: 335px;
+    width: 302px;
     height: 200px; 
     border-radius: 16px;
     margin-right: 20px;
 }
 
 .id-card-top {
-    width: 320px;
+    width: 330px;
     height: 200px;
     position: relative;
     top: -20px; /*zdjecia*/
