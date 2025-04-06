@@ -128,7 +128,6 @@ header {
     /* Firefox */
     margin-bottom: 32px;
     padding-bottom: 40px; /* miejsce nad dolnym paskiem */
-    padding-top: 20px;
 }
 
 #wybor-p::-webkit-scrollbar {
