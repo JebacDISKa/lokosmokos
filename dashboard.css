@@ -151,7 +151,7 @@ header {
 
 .id-card-bottom {
     position: absolute;
-    width: 330px;
+    width: 300px;
     height: 56px;
     left: 0px;
     bottom: 30px; /* wysokosc przyciskow */
