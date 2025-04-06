@@ -155,7 +155,7 @@ header {
     width: 303px;
     height: 56px;
     left: 8px;
-    bottom: 36px; /* Obniżamy go trochę, żeby nie nachodził na górę */
+    bottom: 46px; /* wysokosc przyciskow */
     padding: 16px;
     border-radius: 0 0 16px 16px;
     background-color: #ffffff;
