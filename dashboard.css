@@ -148,7 +148,6 @@ header {
     height: 200px;
     position: relative;
     top: -20px;
-    z-index: 1;
 }
 
 .id-card-bottom {
