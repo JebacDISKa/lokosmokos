@@ -139,7 +139,7 @@ header {
     width: 330px;
     height: 200px; 
     border-radius: 16px;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .id-card-top {
@@ -151,11 +151,11 @@ header {
 
 .id-card-bottom {
     position: absolute;
-    width: 100%;
+    width: 290px;
     height: 56px;
     left: 0px;
     bottom: 30px; /* wysokosc przyciskow */
-    padding: 16px;
+    padding: 10px;
     border-radius: 0 0 16px 16px;
     background-color: #ffffff;
     box-sizing: border-box;
