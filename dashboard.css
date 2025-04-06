@@ -141,7 +141,6 @@ header {
     height: 220px; /* zwiększamy, żeby było miejsce na dolny pasek */
     border-radius: 16px;
     margin-right: 20px;
-    margin-top: -30px;
 }
 
 .id-card-top {
