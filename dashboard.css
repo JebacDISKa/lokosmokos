@@ -16,7 +16,7 @@ header {
     padding: 21px 16px;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 16px;
+    margin-bottom: 36px;
 
 }
 
@@ -147,7 +147,7 @@ header {
     width: 320px;
     height: 200px;
     position: relative;
-    top: -20px;
+    top: -40px;
 }
 
 .id-card-bottom {
