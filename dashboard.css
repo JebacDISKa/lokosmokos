@@ -151,10 +151,10 @@ header {
 
 .id-card-bottom {
     position: absolute;
-    width: 302px;
+    width: 100%;
     height: 56px;
     left: 8px;
-    bottom: 30px; /* wysokosc przyciskow */
+    bottom: 0px; /* wysokosc przyciskow */
     padding: 16px;
     border-radius: 0 0 16px 16px;
     background-color: #ffffff;
