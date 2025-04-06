@@ -113,8 +113,9 @@ header {
 #wybor-p {
     width: 100%;
     height: auto;
+    padding: 1px 1px 1px 1px;
     box-sizing: border-box;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-top: -40px;
     overflow-x: fixed;
     display: flex;
