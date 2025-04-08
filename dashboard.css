@@ -187,7 +187,7 @@ main {
     position: relative;
     width: 106px;
     height: 117px;
-    margin-top: -88px;
+    margin-top: -158px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -218,6 +218,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: -158px;
 }
 
 .przycisk img {
