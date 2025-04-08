@@ -216,7 +216,7 @@ main {
     line-height: normal;
     font-size: 14px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     margin-top: -158px;
 }
