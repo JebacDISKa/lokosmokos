@@ -82,6 +82,7 @@ header {
     text-align: center;
     line-height: 19px;
     letter-spacing: 0.2px;
+    transform: translateY(10px);
 }
 
 #wszystkie {
@@ -96,6 +97,7 @@ header {
     text-align: center;
     line-height: 19px;
     letter-spacing: 0.2px;
+    transform: translateY(10px);
 }
 
 #tekst-dok {
