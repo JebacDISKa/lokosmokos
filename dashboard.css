@@ -212,16 +212,18 @@ main {
     width: 106px;
     height: 37px;
     box-sizing: border-box;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Medium", "Roboto", sans-serif;
     color: #4a4a4a;
     text-align: center;
     line-height: normal;
-    font-size: 14px;
+    font-size: 20px;
+    font-weight: 500; 
     display: flex;
     justify-content: space-around;
     align-items: center;
-    transform: translateY(-92px);
-    left: 3px;
+    letter-spacing: 0.2px;
+    transform: translateY(-112px);
+    left: 15px;
 }
 
 .przycisk img {
