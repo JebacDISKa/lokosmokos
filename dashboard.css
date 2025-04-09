@@ -232,6 +232,7 @@ main {
     width: 72px;
     height: 72px;
     padding: 2px 2px 2px 2px;
+    transform: translateY(-40px);
     background-color: #ffffff;
     box-sizing: border-box;
     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.08);
@@ -273,7 +274,6 @@ main {
 #cap2 {
     top: 24px;
     left: 28px;
-    transform: translateY(-80px);
 }
 
 #cap3 {
