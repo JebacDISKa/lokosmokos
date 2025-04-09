@@ -456,7 +456,7 @@ footer {
     position: relative;
     width: 23px;
     height: 23px;
-    left: -14px;
+    left: -12px;
     margin: 0 auto;
 }
 #more img{
@@ -464,13 +464,13 @@ footer {
 }
 #more2{
     top: 10px;
-    left: 12px;
+    left: 16px;
 }
 #more3{
     top: 10px;
-    left: 10px;
+    left: 14px;
 }
 #more4{
     top: 10px;
-    left: 14px;
+    left: 12px;
 }
