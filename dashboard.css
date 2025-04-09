@@ -50,12 +50,11 @@ header {
     width: 25px;
     height: 38px;
     position: relative;
-    left: -10px;
+    left: -25px;
 }
 
 #dzwonek_bottom {
     position: relative;
-    left: 30px;
 }
 
 #dokumenty {
