@@ -108,8 +108,8 @@ header {
     letter-spacing: 0.2px;
     font-size: 20px;
 
-    align-self: flex-end;  /* ustawia tylko ten element na dole */
-    margin-bottom: 10px;    /* przesuwa go lekko w dół */
+    /* Regulacja wysokości */
+    transform: translateY(18px); /* zmieniaj wartość, np. 4px, 12px itp. */
 }
 
 #wybor-p {
