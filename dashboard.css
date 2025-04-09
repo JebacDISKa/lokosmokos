@@ -220,7 +220,7 @@ main {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: -158px;
+    transform: translateY(-32px);
 }
 
 .przycisk img {
