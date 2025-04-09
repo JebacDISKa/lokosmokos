@@ -121,6 +121,7 @@ header {
     line-height: normal;
     letter-spacing: 0.2px;
     font-size: 20px;
+    left: 10px;
 
     /* Regulacja wysokości */
     transform: translateY(-10px); /* zmieniaj wartość, np. 4px, 12px itp. */
