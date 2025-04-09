@@ -125,7 +125,7 @@ header {
     /* IE and Edge */
     scrollbar-width: none;
     /* Firefox */
-    margin-bottom: 22px;
+    margin-bottom: 32px;
 }
 
 #wybor-p::-webkit-scrollbar {
