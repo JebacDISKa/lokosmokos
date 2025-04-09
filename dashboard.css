@@ -228,6 +228,7 @@ main {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    height: 80px;
 }
 
 .przycisk {
@@ -259,7 +260,6 @@ main {
 
 .przycisk img {
     position: absolute;
-    height: 80px;
 }
 
 #cap {
