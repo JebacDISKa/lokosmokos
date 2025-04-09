@@ -112,7 +112,7 @@ header {
     text-align: center;
     line-height: 19px;
     letter-spacing: 0.2px;
-    transform: translateY(-140px) translateX(800px); /* Przesunięcie o 30px w górę i 100px w prawo */
+    transform: translateY(-160px) translateX(700px); /* Przesunięcie o 30px w górę i 100px w prawo */
 }
 
 #tekst-dok {
