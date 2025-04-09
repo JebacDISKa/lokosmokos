@@ -318,6 +318,8 @@ main {
     align-items: center;
     justify-content: center;
     transform: translateY(5px);
+    width: 75px;
+    height: 110px;
 }
 
 footer {
