@@ -55,6 +55,7 @@ header {
 
 #dzwonek_bottom {
     position: relative;
+    left: 4px;
 }
 
 #dokumenty {
