@@ -293,11 +293,11 @@ main {
     position: relative;
     left: 4px;
     bottom: 33px;
+    width: 75px;
+    height: 110px;
 }
 
 #srod1 {
-    width: 75px;
-    height: 110px;
     top: 25px;
     left: 31px;
 }
@@ -305,8 +305,6 @@ main {
 #srod2 {
     top: 16px;
     left: 16px;
-    width: 75px;
-    height: 110px;
 }
 
 #bus {
@@ -314,8 +312,6 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    width: 75px;
-    height: 110px;
 }
 
 .center {
