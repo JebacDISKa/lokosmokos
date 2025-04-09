@@ -216,14 +216,12 @@ main {
     color: #4a4a4a;
     text-align: center;
     line-height: normal;
-    font-size: 20px;
-    font-weight: 500; 
+    font-size: 12px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    letter-spacing: 0.2px;
-    transform: translateY(-112px);
-    left: 15px;
+    transform: translateY(-60px);
+    
 }
 
 .przycisk img {
