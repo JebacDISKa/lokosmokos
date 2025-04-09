@@ -167,11 +167,11 @@ header {
 }
 .id-card-bottom {
     position: absolute;
-    width: 270px;
+    width: 285px;
     height: 56px;
     left: 0px;
     bottom: 29px; /* wysokosc przyciskow */
-    padding: 1px;
+    padding: 0px;
     border-radius: 0 0 16px 16px;
     background-color: #ffffff;
     box-sizing: border-box;
