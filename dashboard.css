@@ -109,7 +109,7 @@ header {
     font-size: 20px;
 
     align-self: flex-end;  /* ustawia tylko ten element na dole */
-    margin-bottom: 4px;    /* przesuwa go lekko w dół */
+    margin-bottom: 10px;    /* przesuwa go lekko w dół */
 }
 
 #wybor-p {
