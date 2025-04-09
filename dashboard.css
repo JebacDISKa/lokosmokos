@@ -421,7 +421,7 @@ footer {
 
 #kod{
     position: relative;
-    left: 22px;
+    left: 12px;
     width: 24px;
     height: 24px;
 }
@@ -431,14 +431,14 @@ footer {
 }
 
 #kod2{
-    left: 22px;
+    left: 12px;
 }
 #kod3{
-    top: 21px;
+    top: 11px;
     left: 17px;
 }
 #kod4{
-    top: 21px;
+    top: 11px;
 }
 #kod5{
     top: 8px;
@@ -456,7 +456,7 @@ footer {
     position: relative;
     width: 23px;
     height: 23px;
-    left: 7px;
+    left: -7px;
     margin: 0 auto;
 }
 #more img{
