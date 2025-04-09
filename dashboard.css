@@ -97,7 +97,7 @@ header {
     text-align: center;
     line-height: 19px;
     letter-spacing: 0.2px;
-    transform: translateY(15px);
+    transform: translateY(12px);
 }
 
 #wszystkie1 {
@@ -126,7 +126,7 @@ header {
     font-size: 20px;
 
     /* Regulacja wysokości */
-    transform: translateY(13px); /* zmieniaj wartość, np. 4px, 12px itp. */
+    transform: translateY(10px); /* zmieniaj wartość, np. 4px, 12px itp. */
 }
 
 #tekst-usl {
