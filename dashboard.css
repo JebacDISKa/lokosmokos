@@ -318,7 +318,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    transform: translateY(75px);
+    transform: translateY(50px);
 }
 
 footer {
