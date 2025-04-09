@@ -273,6 +273,7 @@ main {
 #cap2 {
     top: 24px;
     left: 28px;
+    transform: translateY(-30px);
 }
 
 #cap3 {
