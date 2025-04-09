@@ -163,7 +163,7 @@ header {
     height: 200px;
     position: relative;
     top: -20px; /* zdjecia */
-    transform: translateX(-10px); /* Przesunięcie w lewo o 10px */
+    transform: translateX(-30px); /* Przesunięcie w lewo o 10px */
 }
 .id-card-bottom {
     position: absolute;
