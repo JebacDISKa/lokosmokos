@@ -100,6 +100,21 @@ header {
     transform: translateY(15px);
 }
 
+#wszystkie1 {
+    width: 104px;
+    height: 36px;
+    padding: 4px;
+    border-radius: 34px;
+    background-color: #dbeaf9;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    color: #014a93;
+    text-align: center;
+    line-height: 19px;
+    letter-spacing: 0.2px;
+    transform: translateY(-30px) translateX(100px); /* Przesunięcie o 30px w górę i 100px w prawo */
+}
+
 #tekst-dok {
     box-sizing: border-box;
     font-family: "Roboto Medium", "Roboto", sans-serif;
