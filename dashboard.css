@@ -313,7 +313,6 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    height: 90px;
 }
 
 .center {
@@ -322,6 +321,8 @@ main {
     align-items: center;
     justify-content: center;
     transform: translateY(5px);
+    width: 75px;
+    height: 110px;
 }
 
 footer {
