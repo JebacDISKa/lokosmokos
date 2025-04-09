@@ -259,6 +259,7 @@ main {
 
 .przycisk img {
     position: absolute;
+    height: 80px;
 }
 
 #cap {
