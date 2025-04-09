@@ -313,6 +313,7 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    height: 90px;
 }
 
 .center {
