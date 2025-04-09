@@ -228,7 +228,7 @@ main {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 280px;
+    height: 150px;
 }
 
 .przycisk {
