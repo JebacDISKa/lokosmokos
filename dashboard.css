@@ -159,8 +159,8 @@ header {
 }
 
 .id-card-top {
-    width: 330px;
-    height: 200px;
+    width: 310px;
+    height: 190px;
     position: relative;
     top: -20px; /* zdjecia */
     transform: translateX(-15px); /* Przesunięcie w lewo o 10px */
