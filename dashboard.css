@@ -252,7 +252,7 @@ main {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    transform: translateY(-60px);
+    transform: translateY(-20px);
     
 }
 
