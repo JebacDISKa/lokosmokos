@@ -171,7 +171,7 @@ header {
     height: 56px;
     left: 0px;
     bottom: 29px; /* wysokosc przyciskow */
-    padding: 10px;
+    padding: 1px;
     border-radius: 0 0 16px 16px;
     background-color: #ffffff;
     box-sizing: border-box;
