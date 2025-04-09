@@ -107,9 +107,10 @@ header {
     line-height: normal;
     letter-spacing: 0.2px;
     font-size: 20px;
-    margin-top: -180px;
-}
 
+    align-self: flex-end;  /* ustawia tylko ten element na dole */
+    margin-bottom: 4px;    /* przesuwa go lekko w dół */
+}
 
 #wybor-p {
     width: 100%;
