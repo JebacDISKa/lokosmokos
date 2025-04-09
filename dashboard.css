@@ -129,7 +129,7 @@ header {
     font-size: 20px;
 
     /* Regulacja wysokości */
-    transform: translateY(10px); /* zmieniaj wartość, np. 4px, 12px itp. */
+    transform: translateY(6px); /* zmieniaj wartość, np. 4px, 12px itp. */
 }
 
 #tekst-usl {
