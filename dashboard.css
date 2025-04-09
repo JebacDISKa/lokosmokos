@@ -50,6 +50,7 @@ header {
     width: 25px;
     height: 38px;
     position: relative;
+    left: -10px;
 }
 
 #dzwonek_bottom {
