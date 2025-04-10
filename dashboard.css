@@ -234,7 +234,7 @@ main {
 .przycisk {
     position: relative;
     width: 75px;
-    height: 110px;
+    height: 99px;
     padding: 2px 2px 2px 2px;
     transform: translateY(-125px);
     background-color: #ffffff;
