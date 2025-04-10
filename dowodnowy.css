@@ -91,6 +91,7 @@ main {
     color: #4a4a4a;
     font-weight: 500;
     transform: translateY(-15px);
+    margin-top: -8px;
 }
 #praw br{
     content: "";
