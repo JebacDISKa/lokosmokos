@@ -13,7 +13,7 @@ header {
     z-index: 9999;
     display: flex;
     align-items: center;
-    padding: 24px;
+    padding: 16px;
     font-weight: 600;
     color: #1d1d1d;
     justify-content: space-between;
@@ -31,13 +31,13 @@ main {
     position: relative;
     background-image: url(https://powderblue-cat-511351.hostingersite.com/dowod_files/dowodnowybg.svg);
     margin: 16px 20px 0px 20px;
-    height: 385px;
+    height: 399px;
     display: flex;
     border-radius: 12px 12px 0px 0px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
     background-repeat: no-repeat;
     background-size: cover;
-    transform: translateY(50px);
+    transform: translateY(65px);
 }
 
 #lew {
