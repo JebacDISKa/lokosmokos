@@ -85,9 +85,10 @@ main {
     font-weight: 600;
 }
 #praw .sub{
-    font-size: 22px;
+    font-size: 12px;
     color: #4a4a4a;
     font-weight: 500;
+    transform: translateY(-10px);
 }
 #praw br{
     content: "";
