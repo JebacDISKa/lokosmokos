@@ -261,6 +261,12 @@ main {
     margin-top: 10px; /* odstęp od przycisku powyżej */
 }
 
+.usluga-tekst:contains("Punkty karne"),
+.usluga-tekst:contains("Naruszenie środowiskowe"),
+.usluga-tekst:contains("Bezpieczny autobus") {
+    margin-top: -30px;
+}
+
 .przycisk img {
     position: absolute;
 }
