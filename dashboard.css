@@ -247,7 +247,7 @@ main {
 .usluga-tekst {
     position: relative;
     width: 106px;
-    height: auto; /* pozwala tekstowi rozciągać się w pionie */
+    height: 37px; /* pozwala tekstowi rozciągać się w pionie */
     box-sizing: border-box;
     font-family: "Roboto Medium", "Roboto", sans-serif;
     color: #4a4a4a;
