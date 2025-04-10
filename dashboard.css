@@ -257,7 +257,7 @@ main {
     display: flex;
     justify-content: space-around;
     align-items: center; 
-    transform: translateY(-31px)
+    transform: translateY(-12px)
 }
 
 .usluga-tekst1 {
@@ -273,7 +273,7 @@ main {
     display: flex;
     justify-content: space-around;
     align-items: center; 
-    transform: translateY(-81px)
+    transform: translateY(-181px)
 }
 
 .przycisk img {
